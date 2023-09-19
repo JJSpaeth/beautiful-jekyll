@@ -63,4 +63,32 @@ If you followed the easy method above, then you already have your site and you c
      font-size: 30px;
 }
 
+.gs-section-02 h3 { 
+     color: blue }
+
+.gs-section-02 p {
+     font-size: 35px;
+}
+
+.gs-section-03 h3 { 
+     color: green }
+
+.gs-section-03 p {
+     font-size: 40px;
+}
+
+.gs-section-04 h3 { 
+     color: yellow }
+
+.gs-section-04 p {
+     font-size: 45px;
+}
+
+.gs-section-05 h3 { 
+     color: purple }
+
+.gs-section-05 p {
+     font-size: 50px;
+}
+
 </style>
