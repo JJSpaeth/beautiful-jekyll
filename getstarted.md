@@ -46,13 +46,9 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 </div>
 
-<div class="gs-section-05" markdown="1">
-
 ## The hard way (using ruby gems)
 
 If you followed the easy method above, then you already have your site and you can skip this section! If you want to use Beautiful Jekyll as a ruby gem instead, follow the [advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard). This is harder to set up initially, but it makes it super easy to keep your site up to date with Beautiful Jekyll when more features are added in the future.
-
-</div>
 
 <style>
 
@@ -82,13 +78,6 @@ If you followed the easy method above, then you already have your site and you c
 
 .gs-section-04 p {
      font-size: 45px;
-}
-
-.gs-section-05 h3 { 
-     color: turquoise }
-
-.gs-section-05 p {
-     font-size: 50px;
 }
 
 </style>
