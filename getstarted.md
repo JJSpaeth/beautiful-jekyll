@@ -85,7 +85,7 @@ If you followed the easy method above, then you already have your site and you c
 }
 
 .gs-section-05 h3 { 
-     color: torqoise }
+     color: turquoise }
 
 .gs-section-05 p {
      font-size: 50px;
