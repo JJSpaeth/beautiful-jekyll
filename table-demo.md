@@ -1,7 +1,6 @@
 ---
 layout: liquid-table
 title: 'amiright?'
-< code class=“highlighter-rouge”>
 reynolds:
   strengths:
   - good father
@@ -21,7 +20,7 @@ gosling:
   - cries a lot
   - not ryan reynolds
 ---
-</ code>
+
 ![](assets/img/ryan-v-ryan.jpg)  
 
 ### Lorem Ipsum
