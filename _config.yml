@@ -110,7 +110,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#2a6592"
 footer-text-col: "#cde1f1"
-footer-link-col: "##f0f6fb"
+footer-link-col: "#6aa6d4"
 
 # "#EAEAEA" light grey -> #2a6592
 # "#404040" charcoal -> #f0f6fb
