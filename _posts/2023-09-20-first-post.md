@@ -3,7 +3,7 @@ layout: post
 title: First Post
 subtitle: Embarking on My Data Analysis Journey
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/IMG_3607.jpg
 share-img: /assets/img/path.jpg
 tags: [test]
 ---
